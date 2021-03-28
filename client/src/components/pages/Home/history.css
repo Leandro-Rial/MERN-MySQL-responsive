@@ -1,0 +1,13 @@
+.history{
+    text-align: center;
+}
+
+.history p {
+    padding: 0 150px;
+}
+
+@media screen and (max-width: 700px) {
+    .history p {
+        padding: 0 50px;
+    }
+}
